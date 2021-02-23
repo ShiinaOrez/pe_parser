@@ -24,6 +24,7 @@ hover build windows --docker
 ### Linux
 
 ```
+hover init-packaging linux-deb
 hover build linux-deb --docker
 ```
 
